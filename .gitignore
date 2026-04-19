@@ -1,0 +1,126 @@
+# ========== ДАННЫЕ ПОЛЬЗОВАТЕЛЯ (НИКОГДА НЕ ВЫКЛАДЫВАТЬ!) ==========
+# Соль для мастер-пароля
+salt.bin
+
+# Зашифрованная база данных с паролями
+passwords.enc
+
+# Временная незашифрованная база данных
+passwords.db
+
+# Лог всех действий пользователя
+password_manager.log
+
+# ========== ВИРТУАЛЬНОЕ ОКРУЖЕНИЕ ==========
+venv/
+.venv/
+env/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# ========== ФАЙЛЫ PYTHON ==========
+# Кэш байт-кода
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Файлы отладки
+*.so
+.Python
+
+# Файлы дистрибуции
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ========== ИНСТРУМЕНТЫ РАЗРАБОТКИ ==========
+# VS Code
+.vscode/
+.history/
+
+# PyCharm
+.idea/
+*.iml
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# ========== ФАЙЛЫ СЕКРЕТОВ И КЛЮЧЕЙ ==========
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+secret.key
+
+# ========== ОПЕРАЦИОННАЯ СИСТЕМА ==========
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.exe
+
+# Linux
+.directory
+*.pid
+*.lock
+
+# ========== РЕЗЕРВНЫЕ КОПИИ ==========
+*.bak
+*.backup
+*.old
+*.orig
+*.tmp
+*~
+
+# ========== ЛОГИ ==========
+*.log
+logs/
+log/
+
+# ========== ТЕСТЫ И ПОКРЫТИЕ ==========
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# ========== ФАЙЛЫ ПРОЕКТА ==========
+# Файлы зависимостей (если они сгенерированы автоматически)
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Файлы отчётов
+*.html
+*.xml
+*.json
