@@ -18,7 +18,7 @@
 
 ```bash
 # Клонируем репозиторий
-git clone https://github.com/your-username/password-manager.git
+git clone https://github.com/halikovn77-stack/password-manager.git
 cd password-manager
 
 # Устанавливаем зависимости
