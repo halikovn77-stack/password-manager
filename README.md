@@ -112,10 +112,10 @@ MIT License
 
 ## 👨‍💻 Автор
 
-GitHub: [Mr. Nobody](https://github.com/halikovn77-stack)
+GitHub: [0xPhant0m](https://github.com/halikovn77-stack)
 
-Telegram: [@Not_found_content_Error404](https://t.me/Not_found_content_Error404)
+Telegram: [@Err_0xPhant0m](https://t.me/Err_0xPhant0m)
 
-Telegram-канал: [Mr. Nobody - Путь программиста](https://t.me/NobodysLifePath)
+Telegram-канал: [0xPhant0m - Путь программиста](https://t.me/Channel_0xPhant0m)
 
 ⭐️ Если мой проект вам помог, поставьте звезду на GitHub!
